@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Simplipie"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  
+[author]
+  name = "Simplipie"
+  image = "author/kristofferabs-square-2.jpg"
+  headline = "Living in the borderlands of business, data and technology."
+  bio = "Living in the borderlands of business, data and technology. Passionate about simplifying business and transforming data into actionable insight."
+  links = [
+    { substack = "https://substack.com/@kristofferabs"},
+    { github = "https://github.com/kristofferabs" },
+    { linkedin = "https://www.linkedin.com/in/kristofferabs/" },
+    { link = "https://www.credly.com/users/kristofferabs/badges" }
+   ]

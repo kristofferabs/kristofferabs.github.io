@@ -12,8 +12,8 @@ title = "Simplipie"
 [author]
   name = "Simplipie"
   image = "author/kristofferabs-square-2.jpg"
-  headline = "Living in the borderlands of business, data and technology."
-  bio = "Living in the borderlands of business, data and technology. Passionate about simplifying business and transforming data into actionable insight."
+  headline = "Living in the borderlands between business, data and technology."
+  bio = "Living in the borderlands between business, data and technology. Passionate about simplifying business and transforming data into actionable insight."
   links = [
     { substack = "https://substack.com/@kristofferabs"},
     { github = "https://github.com/kristofferabs" },
